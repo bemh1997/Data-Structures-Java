@@ -1,2 +1,5 @@
 # Data-Structures-Java
-Curso Makigas Estructuras de Datos.
+Muestrario de estructuras de datos lenguaje Java
+
+## Linked list
+Listas enlazadas.
