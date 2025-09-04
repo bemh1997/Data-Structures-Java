@@ -3,3 +3,6 @@ Muestrario de estructuras de datos lenguaje Java
 
 ## Linked list
 Listas enlazadas.
+
+## Primera revison
+Humberto NO ELIMINES LA 7 Y 8.
